@@ -1,3 +1,6 @@
+# Changes
+Adding MyOutput Class
+
 # Preface
 This is attempt to run composer in the browser, it's working, but;
 
