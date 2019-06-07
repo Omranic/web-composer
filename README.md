@@ -18,4 +18,4 @@ Make sure your PHP & nginx settings are set up correctly, with buffering turned 
 3. Do your magic, and make it happen! Enjoy, and good luck in the process.
 
 # Deliverable
-The deliverable should be fully working code, utilizing PHP v7.2+, Composer v1.8+, symfony/console v4.3+ .. with clear instructions on installation and usage. It's ok to utilize additional technologies, but preferred to do it the native way.
+The deliverable should be fully working code, utilizing PHP v7.2+, Composer v1.8+, symfony/console v4.3+ .. with clear instructions on installation and usage. It's ok to utilize additional technologies, but preferred to do it the native way  (without radical changes, you can NOT refactor the task in another programing languages, or require launching Python server for example!).
