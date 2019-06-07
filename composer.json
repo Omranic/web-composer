@@ -1,0 +1,13 @@
+{
+    "name": "root/test",
+    "authors": [
+        {
+            "name": "Abdelrahman Omran",
+            "email": "me@omranic.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^4.3",
+        "composer/composer": "^1.8"
+    }
+}
