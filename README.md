@@ -16,11 +16,15 @@ we need to print it out instantly to the browser. Any resource type could be use
 Make sure your PHP & nginx settings are set up correctly, with buffering turned off, so you can stream content to the browser.
 
 ## nginx config
+```
 fastcgi_buffering off;
+```
 
 ## php config
+```
 output_buffering = off
 zlib.output_compression = off
+```
 
 # Steps
 1. In your console, run `composer install`
